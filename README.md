@@ -1,8 +1,8 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/dannick10/dannick10/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+ <h1 align="center>Meu nome é Daniel ROcha</h1>&nbsp;
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great ch``allenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Estou sempre buscando aprender tecnologias novas. <br><br> Amo <strong>Design, programar e música</strong>.<br> <strong>Estou focado em desenvolvimento web.</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=dannick10&theme=radical&mode=weekly" />
@@ -14,10 +14,7 @@
 
 
 
-## My Skills
-
-#### Main Stack:
-
+## Minhas Stacks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -26,19 +23,13 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-
-#### Studying in this moment:
+#### Estudando no momento:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
-#### Workstation Tools:
+#### Ferramenta de trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
@@ -46,7 +37,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## contato:
 
 <div> 
 
