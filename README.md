@@ -2,7 +2,7 @@
  <h1 align="center">Oi, eu sou Daniel Rocha 👨🏻‍💻 </h1> &nbsp;
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Estou sempre buscando aprender novas tecnologias. <br><br> Amo <strong>Design, programar e música</strong>. 🟪🎵 <br><strong>Estou focado em desenvolvimento web.</strong>🌐</p>&nbsp;
+<p align="center">Estou sempre buscando aprender novas tecnologias. <br><br> Amo <strong>Design, programação e música</strong>. 🟪🎵 <br><strong>Estou focado em desenvolvimento web.</strong>🌐</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=dannick10&theme=radical&mode=weekly" />
