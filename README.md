@@ -1,7 +1,6 @@
 
 ![Hi, Meu nome é Daniel (1)](https://github.com/Dannick10/Dannick10/assets/102672001/3c2f50a8-669d-4028-bb4a-37712f9b2176) &nbsp;
 
- 
 
 <div  align="center">
 
