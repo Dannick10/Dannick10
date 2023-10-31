@@ -1,5 +1,5 @@
 
-![Hi, Meu nome é Daniel](https://github.com/Dannick10/Dannick10/assets/102672001/122a9df7-e3a0-4041-b65f-0281d0b7bf89)
+!![Hi, Meu nome é Daniel (1)](https://github.com/Dannick10/Dannick10/assets/102672001/3c2f50a8-669d-4028-bb4a-37712f9b2176)
 
 
 <div  align="center" style="margin-bottom:100px;">
