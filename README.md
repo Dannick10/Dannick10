@@ -1,8 +1,6 @@
 
- <h1 align="center">Oi, eu sou Daniel Rocha 👨🏻‍💻 </h1> &nbsp;
-&nbsp;&nbsp;&nbsp;
+![Hi, Meu nome é Daniel](https://github.com/Dannick10/Dannick10/assets/102672001/122a9df7-e3a0-4041-b65f-0281d0b7bf89)
 
-<p align="center">Estou sempre buscando aprender novas tecnologias. <br><br> Amo <strong>Design, programação e música</strong>. 🟪🎵 <br><strong>Estou focado em desenvolvimento web.</strong>🌐</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px;">
 
