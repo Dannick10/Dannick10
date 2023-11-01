@@ -4,9 +4,9 @@
 
 <div  align="center">
 
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dannick10&theme=radical&mode=weekly](https://github-readme-streak-stats.herokuapp.com/?user=Dannick10&theme=dracula&hide_border=true)" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannick10&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
- 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dannick10&theme=radical&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannick10&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
  </div>
  &nbsp;
  &nbsp;
