@@ -8,9 +8,9 @@
   
 <div>
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannick10&theme=radical&hide_border=false" height=180>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannick10&theme=radical&hide_border=false" height=150>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannick10&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" align="right" height=180 >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannick10&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" align="right" height=150 >
 
 </div>   
 
