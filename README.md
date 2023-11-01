@@ -5,20 +5,7 @@
  &nbsp;
  &nbsp;
 
-  
-<div>
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannick10&theme=radical&hide_border=false" height=150>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannick10&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" align="right" height=150 >
-
-</div>   
-
-&nbsp;
- &nbsp;
-
-
-## Minhas Stacks
+## Minhas Stacks>>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -60,6 +47,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>&nbsp;&nbsp;
+
+
  
 
   
