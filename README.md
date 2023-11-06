@@ -1,6 +1,9 @@
 ![Hi, Meu nome é Daniel (3)](https://github.com/Dannick10/Dannick10/assets/102672001/b1151ba9-572e-4f1d-9e7a-b7c207d70bb2)
  &nbsp;
 
+ <div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannick10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" min-width="400px" max-width="400px" width="400px" align="center"><br> 
+</div>
 
  &nbsp;
  &nbsp;
