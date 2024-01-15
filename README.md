@@ -2,7 +2,7 @@
  &nbsp;
 
  <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannick10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" min-width="400px" max-width="400px" width="400px" align="center"><br> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannick10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" min-width="400px" max-width="400px" width="400px" align="center"><br> 
 </div>
 
  &nbsp;
