@@ -1,7 +1,5 @@
 
-
-
-https://github.com/Dannick10/Dannick10/assets/102672001/da64b605-45cb-4d51-bfb0-686b58b38204
+![GIT](https://github.com/Dannick10/Dannick10/assets/102672001/5739230f-9399-43cb-86ce-bdbe68f9ed0d)
 
 &enbsp;
 
