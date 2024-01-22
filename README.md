@@ -1,5 +1,6 @@
 
-![GIT](https://github.com/Dannick10/Dannick10/assets/102672001/5739230f-9399-43cb-86ce-bdbe68f9ed0d)
+![GIT (1)](https://github.com/Dannick10/Dannick10/assets/102672001/1324d947-60d8-4ff8-8519-c2df6219c280)
+
 
 &enbsp;
 
