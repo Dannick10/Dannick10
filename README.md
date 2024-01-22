@@ -1,5 +1,9 @@
-![Hi, Meu nome é Daniel (3)](https://github.com/Dannick10/Dannick10/assets/102672001/b1151ba9-572e-4f1d-9e7a-b7c207d70bb2)
- &nbsp;
+
+
+
+https://github.com/Dannick10/Dannick10/assets/102672001/da64b605-45cb-4d51-bfb0-686b58b38204
+
+&enbsp;
 
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dannick10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
