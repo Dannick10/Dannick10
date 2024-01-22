@@ -2,7 +2,7 @@
 ![GIT (1)](https://github.com/Dannick10/Dannick10/assets/102672001/1324d947-60d8-4ff8-8519-c2df6219c280)
 
 
-&enbsp;
+&nbsp;
 
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dannick10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
