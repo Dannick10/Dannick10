@@ -1,7 +1,4 @@
 
-![GIT (1)](https://github.com/Dannick10/Dannick10/assets/102672001/1324d947-60d8-4ff8-8519-c2df6219c280)
-
-
 &nbsp;
 
 
