@@ -1,4 +1,6 @@
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannick10&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" min-width="400px" max-width="380px" width="350px" align="center" alt="stack dan"> 
 </div>
@@ -46,8 +48,6 @@
 </div>&nbsp;&nbsp;
 
 
- 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
 
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
