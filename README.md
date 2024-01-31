@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannick10&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" min-width="400px" max-width="400px" width="400px" align="center" alt="stack dan"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannick10&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" min-width="400px" max-width="380px" width="350px" align="center" alt="stack dan"> 
 </div>
 
 &nbsp;
