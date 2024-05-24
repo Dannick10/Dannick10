@@ -48,7 +48,7 @@
 
 </div>&nbsp;&nbsp;
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/futurodevdaniel/) 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
 
 
