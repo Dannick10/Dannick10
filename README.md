@@ -1,9 +1,19 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannick10&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" min-width="400px" max-width="380px" width="350px" align="center" alt="stack dan"> 
-</div>
+## Me>>
+
+👨‍💻Cursando Análise e Desenvolvimento de Sistemas pela estácio.
+
+&nbsp;
+&nbsp;
+
+🖥️ Profissional com experiência em desenvolvimento Frontend, Com habilidades sólidas em diversas tecnologias e frameworks, desenvolvimento de interfaces de usuário elegantes e responsivas. 
+
+&nbsp;
+&nbsp;
+
+💾 Stacks: HTML, CSS, Javascript, TypeScript, React, Redux, Redux tooolkit, Styled Components, Context API, Hooks, Git, Firebase
 
 &nbsp;
 &nbsp;
