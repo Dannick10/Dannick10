@@ -14,7 +14,7 @@
 &nbsp;
 &nbsp;
 
-💾 Stacks: HTML, CSS, Javascript, TypeScript, React, Redux, Redux tooolkit, Styled Components, Context API, Hooks, Git, Firebase
+💾 Stacks: HTML, CSS, Javascript, TypeScript, React, Redux, Redux tooolkit, Styled Components,tailwindcss, Context API, Hooks, Git, Firebase
 
 &nbsp;
 &nbsp;
@@ -35,7 +35,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
+![tailwindcss](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### Ferramenta de trabalho:
 
