@@ -14,7 +14,7 @@
 &nbsp;
 &nbsp;
 
-💾 Stacks: HTML, CSS, Javascript, TypeScript, React, Redux, Redux tooolkit, Styled Components,tailwindcss, Context API, Hooks, Git, Firebase
+💾 Stacks: HTML, CSS, Javascript, TypeScript, React, Redux, Redux tooolkit, Styled Components, tailwindcss, Context API, Hooks, Git, Firebase
 
 &nbsp;
 &nbsp;
