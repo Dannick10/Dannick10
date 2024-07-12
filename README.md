@@ -14,7 +14,7 @@
 &nbsp;
 &nbsp;
 
-💾 Stacks: HTML, CSS, Javascript, TypeScript, React, Redux, Redux tooolkit, Styled Components, tailwindcss, Context API, Hooks, Git, Firebase
+💾 Stacks: HTML, CSS, Javascript, TypeScript, React, Nextjs, Redux, Redux tooolkit, Styled Components, tailwindcss, Context API, Hooks, Git, Firebase, api restful
 
 &nbsp;
 &nbsp;
@@ -30,6 +30,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -48,15 +49,12 @@
 &nbsp;
 &nbsp;
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dannick10&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dannick10&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 
 [![](https://visitcount.itsvg.in/api?id=dannick10&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>&nbsp;&nbsp;
