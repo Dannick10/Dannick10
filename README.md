@@ -2,25 +2,6 @@
 
 Atualmente cursando analise e desenvolvimento de sistemas e me dedicando ao desenvolvimento web, mas sou muito maleável. Já desenvolvi alguns projetos criativos, projetos em equipe e outros que resolveram problemas de conhecidos. Estou sempre me mantendo atualizado com as novas tendências do mercado.
 
-&nbsp;
-&nbsp;
-
-
-👨‍💻Cursando Análise e Desenvolvimento de Sistemas pela estácio.
-
-&nbsp;
-&nbsp;
-
-🖥️ Profissional com experiência em desenvolvimento Frontend, Com habilidades sólidas em diversas tecnologias e frameworks, desenvolvimento de interfaces de usuário elegantes e responsivas. 
-
-&nbsp;
-&nbsp;
-
-💾 Stacks: HTML, CSS, Javascript, TypeScript, React, Nextjs, Redux, Redux tooolkit, Styled Components, tailwindcss, Context API, Hooks, Git, Firebase, api restful
-
-&nbsp;
-&nbsp;
-
 ## Minhas Stacks>>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
