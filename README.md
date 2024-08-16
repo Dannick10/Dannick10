@@ -1,5 +1,7 @@
 ## Me>>
 
+Atualmente cursando analise e desenvolvimento de sistemas e me dedicando ao desenvolvimento web, mas sou muito maleável. Já desenvolvi alguns projetos criativos, projetos em equipe e outros que resolveram problemas de conhecidos. Estou sempre me mantendo atualizado com as novas tendências do mercado.
+
 &nbsp;
 &nbsp;
 
