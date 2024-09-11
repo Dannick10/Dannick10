@@ -1,6 +1,6 @@
 ## Me>>
 
-Atualmente cursando analise e desenvolvimento de sistemas e me dedicando ao desenvolvimento web, mas sou muito maleável. Já desenvolvi alguns projetos criativos, projetos em equipe e outros que resolveram problemas de conhecidos. Estou sempre me mantendo atualizado com as novas tendências do mercado.
+Sou desenvolvedor frontend com experiência em JavaScript e Typescript, React, Nextjs. Eu comecei minha jornada com desenvolvimento de software em agosto de 2023 e com os conhecimentos adquiridos pude construir uma plataforma para resolver um problema de acessibilidade de uma comunidade. Atualmente estudando cypress e boas práticas. Também tenho interesse em segurança, desenvolvimento backend e desenvolvimento de jogos.
 
 ## Minhas Stacks>>
 
