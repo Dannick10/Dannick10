@@ -1,10 +1,8 @@
-## Me>>
+## sobre>>
 
-Sou desenvolvedor frontend com experiência em JavaScript e Typescript, React, Nextjs. Eu comecei minha jornada com desenvolvimento de software em agosto de 2023 e com os conhecimentos adquiridos pude construir uma plataforma para resolver um problema de acessibilidade de uma comunidade. Atualmente estudando cypress e boas práticas. Também tenho interesse em segurança, desenvolvimento backend e desenvolvimento de jogos.
+Desenvolvedor frontend com experiência em JavaScript, TypeScript, React, Next.js e figma, cursando o 2ⁿ periodo na Estácio e com experiência em uma equipe de desenvolvimento na Fd Academy, Uma plataforma de educação onde aprendi e desenvolvi componentes escaláveis no desenvolvimento frontend, fiz comunicações com os serviços backend em Nextjs, Chakra, Typescript e redux. Fui responsável por contribuir com designers e criações de interfaces para web e mobile. Atualmente estudo backend com nodejs e banco de dados com Mongodb.
 
-## Minhas Stacks>>
-
-#### Stacks atuais:
+## habilidades
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
