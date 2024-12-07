@@ -51,13 +51,57 @@ Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde t
 - 🌟 **[mypadcookie](https://mypadcookie.vercel.app/)**: Jogo magnata onde voçê clica no biscoito para passar de nível, com sistema de loja.
 - 🌟 **[randomHero](https://randomherojs.vercel.app/)**: Jogo de ritmo, inspirado no famoso gitar-hero.
 - 🌟 **[bip-genesis](https://bio-genesis.vercel.app/)**: Jogo de cíetifico, onde se é possivel criar combinações de bactérias.
+---
 
-## 📈 Estatísticas
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dannick10&show_icons=true&theme=radical"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dannick10&theme=radical"/>
-</div>
+## Conquistas e Certificações
 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+**Certificação em Nextjs - Cod3r** 
+Completado com êxito o curso de Nextjs com várias aplicaçõeds práticas até com backend.
+[[veja o certificado](https://www.udemy.com/certificate/UC-3e92e1fd-7bb5-438b-92a0-5cd63e97d1ab/)]
+
+![Curso React](https://img.shields.io/badge/React_Mastery-%2300C5B0?style=for-the-badge&logo=react&logoColor=white)  
+**Certificação em React - Matheus Battisti**  
+Completado com êxito o curso de React para desenvolver aplicações escaláveis e de alta performance.
+[[veja o certificado](https://www.udemy.com/certificate/UC-f401eee2-b4f5-41f5-971d-2b05ff5e019e/)]
+
+![frontend AdaTech](https://img.shields.io/badge/Front--End_Developer-%23F4A300?style=for-the-badge&logo=ada&logoColor=white)  
+**Desenvolvedor Front-End Certificado**  
+Certificado como Desenvolvedor Front-End com foco em Html,css, Javascript e React.
+[[veja o certificado](https://ada.tech/certificado?code=69d723d6-f428-a737-67b4-ba257d05573b)]
+
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+**Certificação em Cypress**  
+Concluído com sucesso o curso de cypress para realizar testes de aplicaçõeds.
+[[veja o certificado](https://app.agilizei.com/pt/certificado/66db76460516fbe9a8cf6561)]
+
+## Cursos Gratuitos 
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Certificação em html e css | Guanabara**
+conjunto de vídeos, exercícios, desafios e um material de apoio 
+[[veja o curso](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)]
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+**Certificação em Javascript | Guanabara**
+Curso de JavaScript para Iniciantes
+[[veja o curso](https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLeuwJul7tRBfsm7sxnR5_7wG3KvaQ6oOt)]
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+**Certificação em Javascript atualizado e completo | CFBCURSOS**
+Curso de Javascript Profissional e Moderno.
+[[veja o curso](https://www.youtube.com/watch?v=E4DBTqgxHGM&list=PLx4x_zx8csUg_AxxbVWHEyAJ6cBdsYc0T)]
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**Certificação em Typescript| CFBCURSOS**
+Curso de Typescript Completo.
+[[veja o curso](https://www.youtube.com/watch?v=vcpLrIzIKjI&list=PLx4x_zx8csUhtPMrkiGvFJVE5LX8Qat5s)]
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Certificação em Nodejs| Victor Lima**
+Curso de Nodejs e banco.
+[[veja o curso](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)]
 
 ---
 
@@ -66,9 +110,5 @@ Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde t
 [![Portfólio](https://img.shields.io/badge/Portfolio-%23FF6C37.svg?logo=vercel&logoColor=white)](https://dannickportifolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Dannick10)
 [![Codepen](https://img.shields.io/badge/Codepen-%2312100E.svg?logo=codepen&logoColor=white)](https://codepen.io/Dan-Silva-the-vuer)
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Dannick10&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:730710,100:AF0000&height=120&section=footer"/>
