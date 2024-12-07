@@ -16,6 +16,12 @@ Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde t
 
 ---
 
+## 🌐 Minhas redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/futurodevdaniel/) [![Portfólio](https://img.shields.io/badge/Portfolio-%23FF6C37.svg?logo=vercel&logoColor=white)](https://dannickportifolio.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Dannick10) [![Codepen](https://img.shields.io/badge/Codepen-%2312100E.svg?logo=codepen&logoColor=white)](https://codepen.io/Dan-Silva-the-vuer)
+
+---
+
 ## 🛠️ Minhas Habilidades
 ### Linguagens e Frameworks
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -118,13 +124,3 @@ Curso de Nodejs e banco.
 Foi uma competição de criar uma aplicação do zero usando a api criada pela codante, tive um prazo de 3 dias. não ganhei, mas valeu a experiência!
 
 [ver projeto](https://github.com/Dannick10/mp-hackathon-olimpiadas)
-
----
-
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/futurodevdaniel/)
-[![Portfólio](https://img.shields.io/badge/Portfolio-%23FF6C37.svg?logo=vercel&logoColor=white)](https://dannickportifolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Dannick10)
-[![Codepen](https://img.shields.io/badge/Codepen-%2312100E.svg?logo=codepen&logoColor=white)](https://codepen.io/Dan-Silva-the-vuer)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:730710,100:AF0000&height=120&section=footer"/>
