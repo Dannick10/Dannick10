@@ -49,8 +49,14 @@ Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde t
 
 ## 🚀 Projetos em Destaque
 - 🌟 **[Caminho Digital da Bíblia](https://caminhodigitaldabiblia.vercel.app/)**: plataforma biblica com todos os livros, dicionario, **autenticação** e blog.
+   [acessar](https://caminhodigitaldabiblia.vercel.app/) | [repositorio](https://github.com/Dannick10/CaminhoDigitaldaBiblia)
+  
 - 🌟 **[Wikimoeda](https://wikimoeda.vercel.app/)**: Plataforma com cotações financeiras, notícias e integração com a Wikipedia.
+   [acessar](https://wikimoeda.vercel.app/) | [repositorio](https://github.com/Dannick10/wikimoeda)
+  
 - 🌟 **[Nebulaclima](https://nebulaclima.vercel.app/)**: Aplicação para consulta de dados climáticos e personalização de tema.
+  [acessar](https://nebulaclima.vercel.app/) | [repositorio](https://github.com/Dannick10/nebulaclima)
+  
 ---
 
 ## 🎮 Alguns Jogos e interativos criado por mim!
