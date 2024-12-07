@@ -53,7 +53,7 @@ Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde t
 - 🌟 **[Nebulaclima](https://nebulaclima.vercel.app/)**: Aplicação para consulta de dados climáticos e personalização de tema.
 ---
 
-## 🎮 Alguns Jogos e inteartivos criado por mim!
+## 🎮 Alguns Jogos e interativos criado por mim!
 - 🌟 **[mypadcookie](https://mypadcookie.vercel.app/)**: Jogo magnata onde voçê clica no biscoito para passar de nível, com sistema de loja.
 - 🌟 **[randomHero](https://randomherojs.vercel.app/)**: Jogo de ritmo, inspirado no famoso gitar-hero.
 - 🌟 **[bip-genesis](https://bio-genesis.vercel.app/)**: Jogo de cíetifico, onde se é possivel criar combinações de bactérias.
