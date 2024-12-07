@@ -1,54 +1,74 @@
-## sobre>>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:730710,100:AF0000&height=120&section=header"/>
 
-Desenvolvedor frontend com experiência em JavaScript, TypeScript, React, Next.js e figma, cursando o 2ⁿ periodo na Estácio e com experiência em uma equipe de desenvolvimento na Fd Academy, Uma plataforma de educação onde aprendi e desenvolvi componentes escaláveis no desenvolvimento frontend, fiz comunicações com os serviços backend em Nextjs, Chakra, Typescript e redux. Fui responsável por contribuir com designers e criações de interfaces para web e mobile. Atualmente estudo backend com nodejs e banco de dados com Mongodb.
-
-## habilidades
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### Ferramenta de trabalho:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp; ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-
-
-<div> 
-
-
-&nbsp;
-&nbsp;
-
-![](https://github-profile-trophy.vercel.app/?username=dannick10&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=AF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Rocha!;Frontend+Developer+|+React+%26+Next.js;Passionate+about+scalable+and+modern+solutions.)](https://git.io/typing-svg)
 
 ---
 
+## 🧑‍💻 Sobre mim
+Desenvolvedor frontend com experiência em **JavaScript**, **TypeScript**, **React**, **Next.js** e **Figma**. Atualmente cursando o 2ⁿ período de **Análise e Desenvolvimento de Sistemas** na Estácio.
 
-[![](https://visitcount.itsvg.in/api?id=dannick10&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde trabalhei com:
+- Desenvolvimento de componentes escaláveis em **Next.js**, **Chakra UI** e **Redux**.
+- Integração com serviços backend e APIs REST.
+- Criação de interfaces colaborativas para web e mobile.
 
-</div>&nbsp;&nbsp;
+**Atualmente estudo backend** com **Node.js** e bancos de dados como **MongoDB** para me tornar um desenvolvedor full-stack.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/futurodevdaniel/) 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
+---
+
+## 🛠️ Minhas Habilidades
+### Linguagens e Frameworks
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+
+### Backend e Banco de Dados
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+
+### Testes e Ferramentas
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
+
+## 🚀 Projetos em Destaque
+- 🌟 **[Caminho Digital da Bíblia](https://caminhodigitaldabiblia.vercel.app/)**: E-commerce com gerenciamento de estado em **Redux**.
+- 🌟 **[Wikimoeda](https://wikimoeda.vercel.app/)**: Plataforma com cotações financeiras, notícias e integração com a Wikipedia.
+- 🌟 **[Nebulaclima](https://nebulaclima.vercel.app/)**: Aplicação para consulta de dados climáticos e personalização de tema.
+---
+
+## 🎮 Alguns Jogos e inteartivos criado por mim!
+- 🌟 **[mypadcookie](https://mypadcookie.vercel.app/)**: Jogo magnata onde voçê clica no biscoito para passar de nível, com sistema de loja.
+- 🌟 **[randomHero](https://randomherojs.vercel.app/)**: Jogo de ritmo, inspirado no famoso gitar-hero.
+- 🌟 **[bip-genesis](https://bio-genesis.vercel.app/)**: Jogo de cíetifico, onde se é possivel criar combinações de bactérias.
+
+## 📈 Estatísticas
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dannick10&show_icons=true&theme=radical"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dannick10&theme=radical"/>
+</div>
 
 
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/futurodevdaniel/)
+[![Portfólio](https://img.shields.io/badge/Portfolio-%23FF6C37.svg?logo=vercel&logoColor=white)](https://dannickportifolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Dannick10)
+[![Codepen](https://img.shields.io/badge/Codepen-%2312100E.svg?logo=codepen&logoColor=white)](https://codepen.io/Dan-Silva-the-vuer)
+
+---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Dannick10&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:730710,100:AF0000&height=120&section=footer"/>
