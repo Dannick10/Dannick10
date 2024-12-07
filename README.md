@@ -42,7 +42,7 @@ Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde t
 ---
 
 ## 🚀 Projetos em Destaque
-- 🌟 **[Caminho Digital da Bíblia](https://caminhodigitaldabiblia.vercel.app/)**: E-commerce com gerenciamento de estado em **Redux**.
+- 🌟 **[Caminho Digital da Bíblia](https://caminhodigitaldabiblia.vercel.app/)**: plataforma biblica com todos os livros, dicionario, **autenticação** e blog.
 - 🌟 **[Wikimoeda](https://wikimoeda.vercel.app/)**: Plataforma com cotações financeiras, notícias e integração com a Wikipedia.
 - 🌟 **[Nebulaclima](https://nebulaclima.vercel.app/)**: Aplicação para consulta de dados climáticos e personalização de tema.
 ---
