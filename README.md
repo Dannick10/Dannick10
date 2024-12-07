@@ -112,6 +112,13 @@ Curso de Typescript Completo.
 Curso de Nodejs e banco.
 [[veja o curso](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)]
 
+## Hackatons e eventos 
+
+**Hackaton das olimiadas Codante**
+Foi uma competição de criar uma aplicação do zero usando a api criada pela codante, tive um prazo de 3 dias. não ganhei, mas valeu a experiência!
+
+[ver projeto](https://github.com/Dannick10/mp-hackathon-olimpiadas)
+
 ---
 
 ## 🌐 Conecte-se comigo
