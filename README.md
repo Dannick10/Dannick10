@@ -48,8 +48,12 @@ Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde t
 ---
 
 ## 🚀 Projetos em Destaque
-- 🌟 **[Caminho Digital da Bíblia](https://caminhodigitaldabiblia.vercel.app/)**: plataforma biblica com todos os livros, dicionario, **autenticação** e blog.
-   [acessar](https://caminhodigitaldabiblia.vercel.app/) | [repositorio](https://github.com/Dannick10/CaminhoDigitaldaBiblia)
+
+- 🌟 YKMiniURL: Projeto Fullstack com API livre e documentação, é uma plataforma para encurtamento de links com proteção por senha, estatísticas detalhadas e redirecionamento simples.
+   [acessar frontend](https://ykminiurl.vercel.app/)
+   [acesar repositorio frontend](https://github.com/Dannick10/frontend-ykminiurl)
+   [acesar backend / swagger](https://backend-ykminiurl.onrender.com/docs/)
+   [acesar repositorio backend](https://github.com/Dannick10/backend-ykminiurl)
   
 - 🌟 **[Wikimoeda](https://wikimoeda.vercel.app/)**: Plataforma com cotações financeiras, notícias e integração com a Wikipedia.
    [acessar](https://wikimoeda.vercel.app/) | [repositorio](https://github.com/Dannick10/wikimoeda)
