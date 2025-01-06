@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:730710,100:AF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=AF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Rocha!;Fullstack+Developer+|+Next.js+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=AF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Rocha!;Fullstack+Developer;Next.js+Node.js+Mongodb+Tailwindcss)](https://git.io/typing-svg)
 <br>
 
 Sou Designer e desenvolvedor Fullstack, especializado em JavaScript, TypeScript, React e Next.js. Atualmente, curso o 2º período de Análise e Desenvolvimento de Sistemas na Estácio, com foco em backend (Node.js, MongoDB). Colaborei com a Fd Academy no desenvolvimento de interfaces e componentes reutilizáveis, integrando frontend e backend de forma eficiente. Trabalhei com Chakra UI, Redux, Git e metodologias ágeis.
