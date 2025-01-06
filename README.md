@@ -1,28 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:730710,100:AF0000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=AF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Rocha!;Frontend+Developer+|+React+%26+Next.js;Passionate+about+scalable+and+modern+solutions.)](https://git.io/typing-svg)
-
----
+<br>
 
 ## 🧑‍💻 Sobre mim
-Desenvolvedor frontend com experiência em **JavaScript**, **TypeScript**, **React**, **Next.js** e **Figma**. Atualmente cursando o 2ⁿ período de **Análise e Desenvolvimento de Sistemas** na Estácio.
 
-Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde trabalhei com:
-- Desenvolvimento de componentes escaláveis em **Next.js**, **Chakra UI** e **Redux**.
-- Integração com serviços backend e APIs REST.
-- Criação de interfaces colaborativas para web e mobile.
-
-**Atualmente estudo backend** com **Node.js** e bancos de dados como **MongoDB** para me tornar um desenvolvedor full-stack.
-
----
-
-## 🌐 Minhas redes
+- Sou Designer e desenvolvedor web, especializado em JavaScript, TypeScript, React e Next.js. Atualmente, curso o 2º período de Análise e Desenvolvimento de Sistemas na Estácio, com foco em backend (Node.js, MongoDB). Colaborei com a Fd Academy no desenvolvimento de interfaces e componentes reutilizáveis, integrando frontend e backend de forma eficiente. Trabalhei com Chakra UI, Redux, Git e metodologias ágeis.
+Nos momentos livres, gosto de criar projetos interativos, como jogos e aplicações experimentais, que refletem minha criatividade e vontade de explorar além do óbvio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/futurodevdaniel/) [![Portfólio](https://img.shields.io/badge/Portfolio-%23FF6C37.svg?logo=vercel&logoColor=white)](https://dannickportifolio.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Dannick10) [![Codepen](https://img.shields.io/badge/Codepen-%2312100E.svg?logo=codepen&logoColor=white)](https://codepen.io/Dan-Silva-the-vuer)
 
----
 
 ## 🛠️ Minhas Habilidades
+
 ### Linguagens e Frameworks
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -49,17 +39,14 @@ Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde t
 
 ## 🚀 Projetos em Destaque
 
-- 🌟 YKMiniURL: Projeto Fullstack com API livre e documentação, é uma plataforma para encurtamento de links com proteção por senha, estatísticas detalhadas e redirecionamento simples.
-   [acessar frontend](https://ykminiurl.vercel.app/)
-   [acesar repositorio frontend](https://github.com/Dannick10/frontend-ykminiurl)
-   [acesar backend / swagger](https://backend-ykminiurl.onrender.com/docs/)
-   [acesar repositorio backend](https://github.com/Dannick10/backend-ykminiurl)
+- 🌟 **[Caminho Digital da Bíblia](https://caminhodigitaldabiblia.vercel.app/)**: plataforma biblica com todos os livros, dicionario, **autenticação** e blog.
+   [acessar](https://caminhodigitaldabiblia.vercel.app/) | [repositorio](https://github.com/Dannick10/CaminhoDigitaldaBiblia)
+  
+- 🌟 **[Caminho Digital da Bíblia](https://caminhodigitaldabiblia.vercel.app/)**: plataforma biblica com todos os livros, dicionario, **autenticação** e blog.
+   [acessar](https://caminhodigitaldabiblia.vercel.app/) | [repositorio](https://github.com/Dannick10/CaminhoDigitaldaBiblia)
   
 - 🌟 **[Wikimoeda](https://wikimoeda.vercel.app/)**: Plataforma com cotações financeiras, notícias e integração com a Wikipedia.
    [acessar](https://wikimoeda.vercel.app/) | [repositorio](https://github.com/Dannick10/wikimoeda)
-  
-- 🌟 **[Nebulaclima](https://nebulaclima.vercel.app/)**: Aplicação para consulta de dados climáticos e personalização de tema.
-  [acessar](https://nebulaclima.vercel.app/) | [repositorio](https://github.com/Dannick10/nebulaclima)
   
 ---
 
@@ -68,69 +55,3 @@ Participei do desenvolvimento da plataforma de educação **Fd Academy**, onde t
 - 🌟 **[randomHero](https://randomherojs.vercel.app/)**: Jogo de ritmo, inspirado no famoso gitar-hero.
 - 🌟 **[bip-genesis](https://bio-genesis.vercel.app/)**: Jogo de cíetifico, onde se é possivel criar combinações de bactérias.
 ---
-
-## Conquistas e Certificações
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-
-**Certificação em Nextjs - Cod3r** 
-Completado com êxito o curso de Nextjs com várias aplicaçõeds práticas até com backend.
-[[veja o certificado](https://www.udemy.com/certificate/UC-3e92e1fd-7bb5-438b-92a0-5cd63e97d1ab/)]
-
-![Curso React](https://img.shields.io/badge/React_Mastery-%2300C5B0?style=for-the-badge&logo=react&logoColor=white)  
-
-**Certificação em React - Matheus Battisti**  
-Completado com êxito o curso de React para desenvolver aplicações escaláveis e de alta performance.
-[[veja o certificado](https://www.udemy.com/certificate/UC-f401eee2-b4f5-41f5-971d-2b05ff5e019e/)]
-
-![frontend AdaTech](https://img.shields.io/badge/Front--End_Developer-%23F4A300?style=for-the-badge&logo=ada&logoColor=white)  
-
-**Desenvolvedor Front-End Certificado**  
-Certificado como Desenvolvedor Front-End com foco em Html,css, Javascript e React.
-[[veja o certificado](https://ada.tech/certificado?code=69d723d6-f428-a737-67b4-ba257d05573b)]
-
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-**Certificação em Cypress**  
-Concluído com sucesso o curso de cypress para realizar testes de aplicaçõeds.
-[[veja o certificado](https://app.agilizei.com/pt/certificado/66db76460516fbe9a8cf6561)]
-
-## Cursos Gratuitos 
-
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Certificação em html e css | Guanabara**
-conjunto de vídeos, exercícios, desafios e um material de apoio 
-[[veja o curso](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)]
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Certificação em Javascript | Guanabara**
-Curso de JavaScript para Iniciantes
-[[veja o curso](https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLeuwJul7tRBfsm7sxnR5_7wG3KvaQ6oOt)]
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Certificação em Javascript atualizado e completo | CFBCURSOS**
-Curso de Javascript Profissional e Moderno.
-[[veja o curso](https://www.youtube.com/watch?v=E4DBTqgxHGM&list=PLx4x_zx8csUg_AxxbVWHEyAJ6cBdsYc0T)]
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Certificação em Typescript| CFBCURSOS**
-Curso de Typescript Completo.
-[[veja o curso](https://www.youtube.com/watch?v=vcpLrIzIKjI&list=PLx4x_zx8csUhtPMrkiGvFJVE5LX8Qat5s)]
-
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Certificação em Nodejs| Victor Lima**
-Curso de Nodejs e banco.
-[[veja o curso](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)]
-
-## Hackatons e eventos 
-
-**Hackaton das olimiadas Codante**
-Foi uma competição de criar uma aplicação do zero usando a api criada pela codante, tive um prazo de 3 dias. não ganhei, mas valeu a experiência!
-
-[ver projeto](https://github.com/Dannick10/mp-hackathon-olimpiadas)
