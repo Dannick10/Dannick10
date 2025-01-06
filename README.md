@@ -1,18 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:730710,100:AF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=AF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Rocha!;Frontend+Developer+|+React+%26+Next.js;Passionate+about+scalable+and+modern+solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=AF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Rocha!;+|+Fullstack+Developer+|+React%2C+Next.js%2C+Node.js)](https://git.io/typing-svg)
 <br>
+   
 
-## 🧑‍💻 Sobre mim
-
-- Sou Designer e desenvolvedor web, especializado em JavaScript, TypeScript, React e Next.js. Atualmente, curso o 2º período de Análise e Desenvolvimento de Sistemas na Estácio, com foco em backend (Node.js, MongoDB). Colaborei com a Fd Academy no desenvolvimento de interfaces e componentes reutilizáveis, integrando frontend e backend de forma eficiente. Trabalhei com Chakra UI, Redux, Git e metodologias ágeis.
+Sou Designer e desenvolvedor Fullstack, especializado em JavaScript, TypeScript, React e Next.js. Atualmente, curso o 2º período de Análise e Desenvolvimento de Sistemas na Estácio, com foco em backend (Node.js, MongoDB). Colaborei com a Fd Academy no desenvolvimento de interfaces e componentes reutilizáveis, integrando frontend e backend de forma eficiente. Trabalhei com Chakra UI, Redux, Git e metodologias ágeis.
 Nos momentos livres, gosto de criar projetos interativos, como jogos e aplicações experimentais, que refletem minha criatividade e vontade de explorar além do óbvio.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/futurodevdaniel/) [![Portfólio](https://img.shields.io/badge/Portfolio-%23FF6C37.svg?logo=vercel&logoColor=white)](https://dannickportifolio.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Dannick10) [![Codepen](https://img.shields.io/badge/Codepen-%2312100E.svg?logo=codepen&logoColor=white)](https://codepen.io/Dan-Silva-the-vuer)
-
-
-## 🛠️ Minhas Habilidades
-
+ ##
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/futurodevdaniel/) 
+  [![Portfólio](https://img.shields.io/badge/Portfolio-%23FF6C37.svg?logo=vercel&logoColor=white)](https://dannickportifolio.vercel.app/) 
+  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Dannick10) 
+  [![Codepen](https://img.shields.io/badge/Codepen-%2312100E.svg?logo=codepen&logoColor=white)](https://codepen.io/Dan-Silva-the-vuer)
+  
 ### Linguagens e Frameworks
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -35,23 +34,4 @@ Nos momentos livres, gosto de criar projetos interativos, como jogos e aplicaç�
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
----
 
-## 🚀 Projetos em Destaque
-
-- 🌟 **[Caminho Digital da Bíblia](https://caminhodigitaldabiblia.vercel.app/)**: plataforma biblica com todos os livros, dicionario, **autenticação** e blog.
-   [acessar](https://caminhodigitaldabiblia.vercel.app/) | [repositorio](https://github.com/Dannick10/CaminhoDigitaldaBiblia)
-  
-- 🌟 **[Caminho Digital da Bíblia](https://caminhodigitaldabiblia.vercel.app/)**: plataforma biblica com todos os livros, dicionario, **autenticação** e blog.
-   [acessar](https://caminhodigitaldabiblia.vercel.app/) | [repositorio](https://github.com/Dannick10/CaminhoDigitaldaBiblia)
-  
-- 🌟 **[Wikimoeda](https://wikimoeda.vercel.app/)**: Plataforma com cotações financeiras, notícias e integração com a Wikipedia.
-   [acessar](https://wikimoeda.vercel.app/) | [repositorio](https://github.com/Dannick10/wikimoeda)
-  
----
-
-## 🎮 Alguns Jogos e interativos criado por mim!
-- 🌟 **[mypadcookie](https://mypadcookie.vercel.app/)**: Jogo magnata onde voçê clica no biscoito para passar de nível, com sistema de loja.
-- 🌟 **[randomHero](https://randomherojs.vercel.app/)**: Jogo de ritmo, inspirado no famoso gitar-hero.
-- 🌟 **[bip-genesis](https://bio-genesis.vercel.app/)**: Jogo de cíetifico, onde se é possivel criar combinações de bactérias.
----
