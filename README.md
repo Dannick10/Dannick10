@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=AF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Rocha!;Fullstack+Developer;Next.js+Node.js+Mongodb+Tailwindcss)](https://git.io/typing-svg)
 <br>
 
-Sou Designer e desenvolvedor Fullstack, especializado em JavaScript, TypeScript, React e Next.js. Atualmente, curso o 2º período de Análise e Desenvolvimento de Sistemas na Estácio, com foco em backend (Node.js, MongoDB). Colaborei com a Fd Academy no desenvolvimento de interfaces e componentes reutilizáveis, integrando frontend e backend de forma eficiente. Trabalhei com Chakra UI, Redux, Git e metodologias ágeis.
+Sou Designer e desenvolvedor Fullstack, especializado em JavaScript, TypeScript, React e Next.js. Atualmente, curso o 2º período de Análise e Desenvolvimento de Sistemas na Estácio, com foco em backend (Node.js, MongoDB). Colaborei com a Fd Academy no desenvolvimento de interfaces e componentes reutilizáveis, integrando frontend e backend de forma eficiente. Trabalhei com Nextjs, Typescript, Chakra UI, Redux, Git, Figma e metodologias ágeis.
 Nos momentos livres, gosto de criar projetos interativos, como jogos e aplicações experimentais, que refletem minha criatividade e vontade de explorar além do óbvio.
  ##
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/futurodevdaniel/) 
