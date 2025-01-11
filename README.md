@@ -36,7 +36,8 @@
   },
   {
   "frontend": ["React", "Next.js", "TypeScript", "TailwindCSS", "Chakra UI", "Redux"],
-    "backend": ["Node.js", "Express", "MongoDB", "MySQL"],
+    "backend": ["Node.js", "Express", "JWT"],
+    "database": ["MongoDB", "MySQL"],
     "tools": ["Git", "Postman", "Firebase", "Figma"],
     "testing": ["Cypress"]
   }
