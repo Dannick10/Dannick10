@@ -6,7 +6,7 @@
 </div>
 
 
-<div align="left">
+<div align="center">
  <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
     <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="Cute Cat Coffee" width="300" />
   </a>
