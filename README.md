@@ -39,9 +39,9 @@
     "testing": ["Cypress"]
   }
 ```
-- Sou Desenvolvedor Fullstack com experiência prática em JavaScript, TypeScript, React e Next.js.
+- Sou Desenvolvedor Fullstack com experiência profissional em JavaScript, TypeScript, React e Next.js.
 
-- Recentemente, colaborei com uma equipe de desenvolvimento na Fd Academy, onde contribuí para a criação de componentes reutilizáveis, integração de interfaces com o backend e design de interfaces.
+- Atualmente estudando Backend com Nodejs e Mongodb.
 
 📧 **Email:** [ykdanieldev@gmail.com](mailto:ykdanieldev@gmail.com)  
 🌍 **Localização:** Aracaju, SE, Brasil
