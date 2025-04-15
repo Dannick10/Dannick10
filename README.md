@@ -35,7 +35,7 @@
   "frontend": ["React", "Next.js", "TypeScript", "TailwindCSS", "Chakra UI", "Redux"],
     "backend": ["Node.js", "Express", "JWT"],
     "database": ["MongoDB", "MySQL"],
-    "tools": ["Git", "Postman", "Firebase", "Figma"],
+    "tools": ["Git", "Postman", "Firebase", "Figma","prisma"],
     "testing": ["Cypress"]
   }
 ```
