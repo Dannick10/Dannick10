@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    ⚡ Daniel Rocha — Desenvolvedor Fullstack
+    ⚡ Daniel Rocha — Desenvolvedor Frontend
   </h1>
 </div>
 
