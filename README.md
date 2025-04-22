@@ -59,7 +59,7 @@ Apaixonado por tecnologia e sempre pronto para desafios, trago energia e atenç�
 
 ```
 
-## Em mobimento 
+## Em movimento 
 
 - 📚 Estudando backend com Node.js e MongoDB
 
