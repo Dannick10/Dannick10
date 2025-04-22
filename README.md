@@ -5,14 +5,16 @@
 </div>
 
 <div align="center">
-  <div>
-  <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/33d6422d-7999-4268-8c8c-cb8ad52f562a" alt="Daniel rocha" width="300" />
-  </a>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdkdTM2MzFzYjNqOGExenZrdnh5bjIxbG9wN2Q4cHZyMGI3azBrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufgbn5OaTw6604o/giphy.gif" alt="raios" width="100" height="300" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/33d6422d-7999-4268-8c8c-cb8ad52f562a" alt="Daniel rocha" style="max-width: 100%; width: 300px;" />
+    </a>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdkdTM2MzFzYjNqOGExenZrdnh5bjIxbG9wN2Q4cHZyMGI3azBrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufgbn5OaTw6604o/giphy.gif" alt="raios" style="max-width: 100%; height: auto; height: 300px;" />
   </div>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29tc21jNWc5czhyMGJ3YzhsejQ4ODV5ZXJjNjZ2amQ1aTRzbThtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LiBe0Ia31QalbuVRb2/giphy.gif" alt="mar" width="400" height="150" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29tc21jNWc5czhyMGJ3YzhsejQ4ODV5ZXJjNjZ2amQ1aTRzbThtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LiBe0Ia31QalbuVRb2/giphy.gif" alt="mar" style="max-width: 100%; width: 850px; height: 200px; display: none;" />
+</div>
+
 
   
   <br />
