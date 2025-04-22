@@ -1,15 +1,15 @@
-
 <div align="center">
   <h1>
-    <span role="img" aria-label="waving" >👋</span> Daniel Rocha - Fullstack Developer
+    ⚡ Daniel Rocha — Desenvolvedor Fullstack
   </h1>
 </div>
 
-
 <div align="center">
- <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
-    <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="Cute Cat Coffee" width="300" />
+  <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
+
+  <img src="https://github.com/user-attachments/assets/33d6422d-7999-4268-8c8c-cb8ad52f562a" alt="Cute Cat Coffee" width="300" />
   </a>
+  <br />
   <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -21,34 +21,46 @@
   </a>
 </div>
 
-## Sobre Mim
+---
 
-```json   
-  {
-    "name": "Daniel Rocha",
-    "role": "Fullstack Developer",
-    "focus": "Javascript, Typescript, Next.js, and Nodejs",
-    "email": "ykdanieldev@gmail.com",
-    "location": "Aracaju, SE, Brazil"
-  },
-  {
-  "frontend": ["React", "Next.js", "TypeScript", "TailwindCSS", "Chakra UI", "Redux"],
-    "backend": ["Node.js", "Express", "JWT"],
-    "database": ["MongoDB", "MySQL"],
-    "tools": ["Git", "Postman", "Firebase", "Figma","prisma"],
-    "testing": ["Cypress"]
-  }
-```
-- Sou Desenvolvedor Fullstack com experiência profissional em JavaScript, TypeScript, React e Next.js.
+## ⚡ Sobre Mim
 
-- Atualmente estudando Backend com Nodejs e Mongodb.
+> Criando interfaces que conectam, com código que transforma.  
+> Como o raio de Zeus: rápido, preciso e marcante.  
 
-📧 **Email:** [ykdanieldev@gmail.com](mailto:ykdanieldev@gmail.com)  
-🌍 **Localização:** Aracaju, SE, Brasil
+Sou **Daniel Rocha**, desenvolvedor Fullstack e designer digital. Minha jornada começou com o amor por games e design — hoje, uno performance e estética para construir experiências que causam impacto real.
+
+Apaixonado por tecnologia e sempre pronto para desafios, trago energia e atenção aos detalhes em cada projeto. Do front ao back, atuo com foco total na experiência do usuário e na entrega de valor.
 
 ---
 
+## 🧠 Stack & Skills
 
-## Contato
+```json
+{
+  "name": "Daniel Rocha",
+  "role": "Fullstack Developer",
+  "location": "Aracaju, SE, Brazil",
+  "email": "ykdanieldev@gmail.com",
+  "frontend": ["React", "Next.js", "TypeScript", "TailwindCSS", "Chakra UI", "Redux"],
+  "backend": ["Node.js", "Express", "JWT"],
+  "database": ["MongoDB", "MySQL"],
+  "tools": ["Git", "Postman", "Firebase", "Prisma", "Figma"],
+  "testing": ["Cypress"]
+}
 
-Sinta-se à vontade para entrar em contato para possíveis colaborações, estágios ou projetos.
+```
+
+## Em mobimento 
+
+- 📚 Estudando backend com Node.js e MongoDB
+
+- 💼 Buscando oportunidades como Dev Frontend/Fullstack
+
+- 🧠 Explorando design, UX e performance web
+---
+
+### Tem uma ideia única ou precisa de algo além dos planos?  Vamos conversar e criar juntos uma solução sob medida — feita com código, propósito e energia.
+
+📧 **Email:** [ykdanieldev@gmail.com](mailto:ykdanieldev@gmail.com)  
+🌍 **Localização:** Aracaju, SE, Brasil
