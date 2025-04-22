@@ -7,12 +7,12 @@
 <div align="center">
   <div>
   <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/33d6422d-7999-4268-8c8c-cb8ad52f562a" alt="Cute Cat Coffee" width="300" />
+  <img src="https://github.com/user-attachments/assets/33d6422d-7999-4268-8c8c-cb8ad52f562a" alt="Daniel rocha" width="300" />
   </a>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDUzM2w2eGZlMWV5Zjg2YXBwc2liMnowbW85ajZzOHF5ZnFxODJnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3HLbo2fBTg1nE2IHl4/giphy.gif" alt="Cute Cat Coffee" width="100" height="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdkdTM2MzFzYjNqOGExenZrdnh5bjIxbG9wN2Q4cHZyMGI3azBrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufgbn5OaTw6604o/giphy.gif" alt="raios" width="100" height="300" />
   </div>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pucXBwc2pqZGdwdGdjcGt0Ym1qemlwNTJmeXlwMmE5NTBwd2txdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vgNq54YDbJb1eSumUV/giphy.gif" alt="Cute Cat Coffee" width="400" height="150" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29tc21jNWc5czhyMGJ3YzhsejQ4ODV5ZXJjNjZ2amQ1aTRzbThtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LiBe0Ia31QalbuVRb2/giphy.gif" alt="mar" width="400" height="150" />
 
   
   <br />
