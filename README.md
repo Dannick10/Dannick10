@@ -49,6 +49,7 @@ Apaixonado por tecnologia e sempre pronto para desafios, trago energia e atenç�
   "name": "Daniel Rocha",
   "role": "Fullstack Developer",
   "location": "Aracaju, SE, Brazil",
+  "Experience": "{ bravimTech: 3 months, FDAcademy: 1 month}",
   "email": "ykdanieldev@gmail.com",
   "frontend": ["React", "Next.js", "TypeScript", "TailwindCSS", "Chakra UI", "Redux"],
   "backend": ["Node.js", "Express", "JWT"],
@@ -58,13 +59,9 @@ Apaixonado por tecnologia e sempre pronto para desafios, trago energia e atenç�
 }
 
 ```
-
-## Em movimento 
-
+## ⏰ Em movimento 
 - 📚 Estudando backend com Node.js e MongoDB
-
-- 💼 Buscando oportunidades como Dev Frontend/Fullstack
-
+- 👨‍🎓 Formando em Systems Analysis and Development
 - 🧠 Explorando design, UX e performance web
 ---
 
