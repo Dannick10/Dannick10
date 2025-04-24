@@ -2,13 +2,14 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/c6482073-a8a0-4988-b493-67c350ab270f" alt="mar" style="width: 100%; height: 200px;" />
+  <img src="https://github.com/user-attachments/assets/45b48261-ca5d-45e3-aa39-6686242e3322" alt="mar" style="width: 100%; height: 200px;" />
     </a>
 
   </div>
 
 </div>
 <div align="center">
+
   <br />
   <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
