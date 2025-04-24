@@ -42,7 +42,7 @@ Apaixonado por tecnologia e sempre pronto para desafios, trago energia e atenç�
 {
   "name": "Daniel Rocha",
   "role": "Fullstack Developer",
-  "location": "Aracaju, SE, Brazil",
+  "location": "caçapava - SP",
   "Experience": "{ bravimTech: 3 months, FDAcademy: 1 month}",
   "email": "ykdanieldev@gmail.com",
   "frontend": ["React", "Next.js", "TypeScript", "TailwindCSS", "Chakra UI", "Redux"],
