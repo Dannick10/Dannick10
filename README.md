@@ -68,4 +68,4 @@ Apaixonado por tecnologia e sempre pronto para desafios, trago energia e atenç�
 ### Tem uma ideia única ou precisa de algo além dos planos?  Vamos conversar e criar juntos uma solução sob medida — feita com código, propósito e energia.
 
 📧 **Email:** [ykdanieldev@gmail.com](mailto:ykdanieldev@gmail.com)  
-🌍 **Localização:** Aracaju, SE, Brasil
+🌍 **Localização:** Caçapava -SP
