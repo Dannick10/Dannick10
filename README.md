@@ -11,7 +11,7 @@
 <div align="center">
 
   <br />
-  <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
+  <a href="https://www.linkedin.com/in/ykdanielrocha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://dannickportifolio.vercel.app/" target="_blank">
