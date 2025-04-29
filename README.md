@@ -43,7 +43,7 @@ Apaixonado por tecnologia e sempre pronto para desafios, trago energia e atenç�
   "name": "Daniel Rocha",
   "role": "Fullstack Developer",
   "location": "caçapava - SP",
-  "Experience": "{ bravimTech: 3 months, FDAcademy: 1 month}",
+  "Experience": "{ bravimTech: current, FDAcademy: 1 month}",
   "email": "ykdanieldev@gmail.com",
   "frontend": ["React", "Next.js", "TypeScript", "TailwindCSS", "Chakra UI", "Redux"],
   "backend": ["Node.js", "Express", "JWT"],
