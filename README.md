@@ -49,7 +49,7 @@ Apaixonado por tecnologia trago atenção aos detalhes em cada projeto. atuando 
   "backend": ["Node.js", "Express", "JWT"],
   "database": ["MongoDB", "MySQL"],
   "tools": ["Git", "Postman", "Firebase", "Prisma", "Figma"],
-  "testing": ["Cypress"]
+  "testing": ["jest","Cypress"]
 }
 
 ```
