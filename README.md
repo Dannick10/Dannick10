@@ -30,9 +30,9 @@
 > Criando interfaces que conectam, com código que transforma.  
 > Como o raio de Zeus: rápido, preciso e marcante.  
 
-Sou **Daniel Rocha**, desenvolvedor Fullstack e designer digital. Minha jornada começou com o amor por games e design — hoje, uno performance e estética para construir experiências que causam impacto real.
+Sou **Daniel Rocha**, desenvolvedor frontend e designer digital. Minha jornada começou com o amor por games e design. Combino performance e estética para criar interfaces que causam impacto real.
 
-Apaixonado por tecnologia e sempre pronto para desafios, trago energia e atenção aos detalhes em cada projeto. Do front ao back, atuo com foco total na experiência do usuário e na entrega de valor.
+Apaixonado por tecnologia trago atenção aos detalhes em cada projeto. atuando no front ao back, com foco na experiência do usuário e na entrega de valor.
 
 ---
 
@@ -54,12 +54,10 @@ Apaixonado por tecnologia e sempre pronto para desafios, trago energia e atenç�
 
 ```
 ## ⏰ Em movimento 
-- 📚 Estudando backend com Node.js e MongoDB
+- 📚 Estudando c# para jogos e node, java para backend 
 - 👨‍🎓 Formando em Systems Analysis and Development
 - 🧠 Explorando design, UX e performance web
 ---
-
-### Tem uma ideia única ou precisa de algo além dos planos?  Vamos conversar e criar juntos uma solução sob medida — feita com código, propósito e energia.
 
 📧 **Email:** [ykdanieldev@gmail.com](mailto:ykdanieldev@gmail.com)  
 🌍 **Localização:** Aracajú - SE
