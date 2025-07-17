@@ -27,12 +27,11 @@
 
 ## ⚡ Sobre Mim
 
-> Criando interfaces que conectam, com código que transforma.  
 > Como o raio de Zeus: rápido, preciso e marcante.  
 
-Sou **Daniel Rocha**, desenvolvedor frontend e designer digital. Minha jornada começou com o amor por games e design. Combino performance e estética para criar interfaces que causam impacto real.
+Vindo do universo da arte e música, descobri na programação uma forma poderosa de criar e impactar. Minha missão é transformar criatividade em código que funciona e conecta pessoas, criando interfaces rápidas, bonitas e fáceis de usar.
 
-Apaixonado por tecnologia trago atenção aos detalhes em cada projeto. atuando no front ao back, com foco na experiência do usuário e na entrega de valor.
+Tenho 2 anos de formação e experiência prática focada em frontend e UI/UX. Estou sempre estudando e expandindo meus horizontes, especialmente em backend com Node.js, Java e C# para jogos.
 
 ---
 
