@@ -1,8 +1,6 @@
-
-
 <div align="center">
-    <a href="https://www.linkedin.com/in/futurodevdaniel/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/45b48261-ca5d-45e3-aa39-6686242e3322" alt="mar" style="width: 100%; heeight: 50%;" />
+    <a href="https://www.linkedin.com/in/ykdanielrocha/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/2a8e3c49-c4e9-4500-a5d8-97e9985f2263" alt="mar" style="width: 100%; heeight: 50%;" />
     </a>
 
   </div>
@@ -25,18 +23,6 @@
 
 ---
 
-## ⚡ Sobre Mim
-
-> Como o raio de Zeus: rápido, preciso e marcante.  
-
-Vindo do universo da arte e música, descobri na programação uma forma poderosa de criar e impactar. Minha missão é transformar criatividade em código que funciona e conecta pessoas, criando interfaces rápidas, bonitas e fáceis de usar.
-
-Tenho 2 anos de formação e experiência prática focada em frontend e UI/UX. Estou sempre estudando e expandindo meus horizontes, especialmente em backend com Node.js, Java e C# para jogos.
-
----
-
-## 🧠 Stack & Skills
-
 ```json
 {
   "name": "Daniel Rocha",
@@ -53,9 +39,13 @@ Tenho 2 anos de formação e experiência prática focada em frontend e UI/UX. E
 
 ```
 ## ⏰ Em movimento 
-- 📚 Estudando c# para jogos e node, java para backend 
-- 👨‍🎓 Formando em Systems Analysis and Development
-- 🧠 Explorando design, UX e performance web
+- 🎓 Formando em Análise e Desenvolvimento de Sistemas
+- 🎮 Estudando C# e Java para desenvolvimento de jogos
+- 🧠 Aprofundando em Node.js e arquitetura backend
+- 🎨 Explorando UX, performance web e animações
+- ✨ Criando experiências que unem arte + código
+
+
 ---
 
 📧 **Email:** [ykdanieldev@gmail.com](mailto:ykdanieldev@gmail.com)  
