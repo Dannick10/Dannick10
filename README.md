@@ -1,9 +1,8 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/ykdanielrocha/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/2a8e3c49-c4e9-4500-a5d8-97e9985f2263" alt="mar" style="width: 100%; heeight: 50%;" />
+  <img src="https://github.com/user-attachments/assets/e37a579a-c75d-4020-adb6-3d6a18cd057d" alt="mar" style="width: 100%; heeight: 50%;" />
     </a>
-
-  </div>
+</div>
 
 </div>
 <div align="center">
@@ -28,9 +27,9 @@
   "name": "Daniel Rocha",
   "role": "Fullstack Developer",
   "location": "Aracaju - se",
-  "Experience": "{ bravimTech: current, FDAcademy: 1 month}",
+  "Experience": "{ bravimTech: 7 months, FDAcademy: 1 month}",
   "email": "ykdanieldev@gmail.com",
-  "frontend": ["React", "Next.js", "TypeScript", "TailwindCSS", "Chakra UI", "Redux"],
+  "frontend": ["React", "Next.js", "TypeScript", "TailwindCSS", "Chakra UI", "Redux", "React-Query", "Hook-forms"],
   "backend": ["Node.js", "Express", "JWT"],
   "database": ["MongoDB", "MySQL"],
   "tools": ["Git", "Postman", "Firebase", "Prisma", "Figma"],
@@ -40,7 +39,7 @@
 ```
 ## ⏰ Em movimento 
 - 🎓 Formando em Análise e Desenvolvimento de Sistemas
-- 🎮 Estudando C# e Java para desenvolvimento de jogos
+- 🎮 Estudando C# 
 - 🧠 Aprofundando em Node.js e arquitetura backend
 - 🎨 Explorando UX, performance web e animações
 - ✨ Criando experiências que unem arte + código
