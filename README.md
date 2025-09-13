@@ -22,7 +22,7 @@
 
 ### Sobre Mim
 
-Desenvolvedor Fullstack com foco em Frontend. Especializado em React, Next.js e TypeScript, também atuo com Node.js e MongoDB. Tenho experiência em UX/UI, metodologias ágeis e em projetos na FuturoDevAcademy e BravimTech, buscando sempre entregar soluções de alto impacto.
+Sou desenvolvedor Fullstack com foco em Frontend, especializado em React, Next.js, TypeScript e TailwindCSS, com experiência em integração de APIs e criação de interfaces intuitivas e visualmente sofisticadas no Figma. Também atuo com Node.js e MongoDB, construindo aplicações client-side, server-side e em arquitetura MVC.
 
 ---
 
