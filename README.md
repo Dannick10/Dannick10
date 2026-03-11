@@ -1,35 +1,43 @@
-<div align="center">
-    
-  # Daniel Rocha
-    
-  ### Desenvolvedor Fullstack & UI/UX | React, Next.js & Node.js
-</div>
-
-<div align="center">
-  <br />
-  <a href="https://www.linkedin.com/in/ykdanielrocha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://ykdanielrocha.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://codepen.io/Dan-Silva-the-vuer" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
-  </a>
-</div>
+# Daniel Rocha
+**Fullstack Developer | React • Next.js • Node.js • TypeScript**
 
 ---
 
-### Sobre Mim
-
-Sou desenvolvedor Fullstack com foco em Frontend, especializado em React, Next.js, TypeScript e TailwindCSS, com experiência em integração de APIs e criação de interfaces intuitivas e visualmente sofisticadas no Figma. Também atuo com Node.js e MongoDB, construindo aplicações client-side, server-side e em arquitetura MVC.
+### 🚀 Sobre
+Desenvolvedor focado no ecossistema **JavaScript/Typescript**. Unindo a precisão do **UI/UX Design** com desenvolvimento **Fullstack**. Atualmente focado em performance de interfaces e escalabilidade de APIs.
 
 ---
 
-### Habilidades Principais
+### 🛠️ Tech Stack
 
-* **Frontend:** HTML5, CSS, JavaScript, TypeScript, React, Next.js, Redux, React-Query, TailwindCSS, Chakra UI, Framer Motion, GSAP
-* **Backend** Node.js, Express
-* **Banco de Dados:** MongoDB, MySQL, Prisma
-* **Ferramentas:** Git, Figma, Postman, Swagger, Firebase, Docker
-* **Testes:** Jest, Cypress
+- **Frontend:** React, Next.js, TypeScript, Design System, TailwindCSS, Redux Toolkit, React Query.
+- **Backend:** Node.js, Express, .NET Integration, REST APIs, Swagger, Prisma.
+- **Database & DevOps:** MongoDB, MySQL, Docker, Azure, Firebase.
+- **Testing & Quality:** Jest, Eslint, Prettier, Cypress, Gitflow, Postman, Kanban.
+
+---
+
+### 📂 Projetos em Destaque
+
+| Projeto | Descrição | Stack Principal |
+| :--- | :--- | :--- |
+| **[Soleil Luxury Page](https://soleilbybocadolobo.vercel.app/)** | Landing page de alto padrão com foco em conversão e UI refinada. | `Next.js` `Framer Motion` `Tailwind` |
+| **[YkSynck](https://yksynck.vercel.app/)** | Gerenciador de projetos Fullstack com Kanban, JWT e MongoDB. | `Next.js` `Node.js` `Redux` |
+| **[YKMiniURL](https://ykminiurl.vercel.app/)** | Micro-serviço de encurtamento de links com proteção de senha e métricas. | `Next.js` `Node.js` `MongoDB` |
+| **[Caminho Digital da biblia](https://caminhodigitaldabiblia.vercel.app/)** | Experiência de estudo com dicionário, blog e SpeechSynthesis API. | `React` `Firebase` `Web Storage` |
+
+
+---
+
+### 📊 Estatísticas e Atividade
+
+<p align="left">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dannick10&theme=gotham&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=2aa889" alt="Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannick10&theme=gotham&show_icons=true&hide_border=true&layout=compact&title_color=2aa889" alt="Top Languages" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Daniel Rocha — Crafting digital experiences with code and design.</sub>
+</div>
